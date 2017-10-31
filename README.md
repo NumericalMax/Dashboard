@@ -11,4 +11,5 @@ In the file main.py you have to adjust all parts which are signed by a TODO to y
 Most parts of the underlying code are from CreativeTim and Pivottable (Nicolas Kruchten). Please use their copyright notice in your project if you use any of their resources. The mentioned LICENSE files are included into the root folder 'Dashboard/Dashboard'.
 
 https://github.com/creativetimofficial
+
 https://github.com/nicolaskruchten/pivottable
