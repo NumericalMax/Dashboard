@@ -7,6 +7,8 @@ Python Libraries:
 2. Pandas
 3. mysql.connector (differs if you want to use e.g. SQL Server)
 
+SQL Database in which your data are stored.
+
 ## TODO:
 In the file main.py you have to adjust all parts which are signed by a TODO to your needs.
 
