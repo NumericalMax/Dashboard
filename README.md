@@ -2,7 +2,10 @@
 This is a minimal example of how to use a bootstrap template with pivot table. Data are loaded from a SQL Database. This enables you to evaluate data stored in your SQL Database pretty fast in an appealing way.
 
 ## Requirements:
-Python Libraries: Flask, Pandas and mysql.connector (differs if you want to use e.g. SQL Server)
+Python Libraries:
+1. Flask
+2. Pandas
+3. mysql.connector (differs if you want to use e.g. SQL Server)
 
 ## TODO:
 In the file main.py you have to adjust all parts which are signed by a TODO to your needs.
