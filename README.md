@@ -12,6 +12,9 @@ SQL Database in which your data are stored.
 ## TODO:
 In the file main.py you have to adjust all parts to your needs which are signed by a TODO.
 
+## How does this look like:
+![alt text](https://github.com/NumericalMax/Dashboard/blob/master/example.png)
+
 ## License:
 Most parts of the underlying code are from CreativeTim and Pivottable (Nicolas Kruchten). Please use their copyright notice in your project if you use any of their resources. The mentioned LICENSE files are included into the root folder 'Dashboard/Dashboard'.
 
